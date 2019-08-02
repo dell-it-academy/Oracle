@@ -1,0 +1,24 @@
+Acupuntura
+Alergia e imunologia
+Anestesiologia
+Angiologia
+Cancerologia
+Cardiologia
+
+Cirurgiao
+	cardiovascular
+	mao
+	cabeça e pescoço
+	aparelho digestivo
+	geral
+	pediátrica
+	plástica
+	torácica
+	vascular
+	médica
+
+Coloproctologia
+Dermatologia
+Endocrinologia e metabologia
+Endoscopia
+Gastroenterologia
